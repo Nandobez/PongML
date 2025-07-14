@@ -1,0 +1,6 @@
+*.o
+pong
+train
+.DS_Store
+.idea/
+.vscode/
